@@ -1,2 +1,2 @@
-# my-
+# Shop Management system
 first app
